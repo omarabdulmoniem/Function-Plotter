@@ -1,6 +1,4 @@
 # Function-Plotter
-
-# Description
 A GUI program that plots arbitrary user-entered function and detects input errors if any of them exists.
 
 # Supported operations
