@@ -17,5 +17,5 @@ A GUI program that plots arbitrary user-entered function and detects input error
 
 # Libraries used
 * Matplotlib
-* numPy
+* NumPy
 * Tkinter
